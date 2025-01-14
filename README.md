@@ -1,5 +1,9 @@
 # Mini Tradutor
 
+## Desafio
+
+Construí este mini tradutor para colocar em prática meus estudos sobre dicionários em Python.
+
 Este é um programa simples de tradução que permite ao usuário armazenar, consultar, adicionar, atualizar e remover palavras de um dicionário de traduções.
 
 ## Funcionalidades
