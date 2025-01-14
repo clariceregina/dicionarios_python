@@ -4,16 +4,16 @@
 
 Construí este mini tradutor para colocar em prática meus estudos sobre dicionários em Python.
 
-Este é um programa simples de tradução que permite ao usuário armazenar, consultar, adicionar, atualizar e remover palavras de um dicionário de traduções.
+Este é um programa simples de tradução que permite à pessoa usuária armazenar, consultar, adicionar, atualizar e remover palavras de um dicionário de traduções.
 
 ## Funcionalidades
 
 O programa oferece as seguintes opções:
 
-1. **Traduzir uma palavra**: O usuário pode inserir uma palavra e o programa retorna a tradução, se encontrada.
+1. **Traduzir uma palavra**: A pessoa usuária pode inserir uma palavra e o programa retorna a tradução, se encontrada.
 2. **Adicionar uma palavra e sua tradução**: Permite adicionar uma nova palavra e sua tradução ao dicionário.
 3. **Exibir todas as palavras cadastradas e suas traduções**: Exibe a lista completa de palavras e traduções armazenadas no tradutor.
-4. **Atualizar a tradução de uma palavra existente**: Permite ao usuário atualizar a tradução de uma palavra já cadastrada.
+4. **Atualizar a tradução de uma palavra existente**: Permite à pessoa usuária atualizar a tradução de uma palavra já cadastrada.
 5. **Remover uma palavra do tradutor**: Remove uma palavra e sua tradução do dicionário.
 
 ## Como usar
